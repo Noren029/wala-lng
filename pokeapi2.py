@@ -1,3 +1,4 @@
+#to send a get request to the api
 import requests
 
 def getPokemon(pokeNameOrID):
@@ -22,4 +23,3 @@ def getPokemon(pokeNameOrID):
 
 if __name__ == "__main__":
     print("please import this as a module to your main code")
-

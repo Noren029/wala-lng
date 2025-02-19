@@ -1,3 +1,12 @@
+'''
+lab5Mainscript.py - the main script to be used with pastebinapi and pokeapi module to find a pokemons abilities and make a paste with them
+Keiffer McEwan - 10355836
+
+This program is strictly my own work. Any material beyond course learning
+materials that is taken from the Web or other sources is properly cited,
+giving credit to the original author(s).
+'''
+
 #for finding the command line arg
 from sys import argv
 
